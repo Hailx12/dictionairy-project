@@ -1,5 +1,12 @@
-.App-header {
+.App .container {
+  background-color: #f9f7fe;
+  border-radius: 15px;
+  padding: 0px 30px;
+}
+
+.App header {
   margin: 30px;
+  padding-top: 10px;
 }
 
 .App-logo {
@@ -8,6 +15,11 @@
   margin: 0 auto;
 }
 
-footer {
+.App footer {
   margin: 30px;
+  padding-bottom: 30px;
+}
+
+.App a {
+  color: #227576;
 }

@@ -13,7 +13,22 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">Coded by Sohaily Kerpens</footer>
+        <footer className="text-center">
+          Coded by{" "}
+          <a
+            href="https://romantic-brattain-b00cbf.netlify.app/"
+            rel="noreferrer"
+          >
+            Sohaily Kerpens
+          </a>{" "}
+          Github{" "}
+          <a
+            href="https://github.com/Hailx12/dictionairy-project"
+            rel="noreferrer"
+          >
+            open-Sourced
+          </a>
+        </footer>
       </div>
     </div>
   );
