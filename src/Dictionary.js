@@ -52,7 +52,7 @@ export default function Dictionary() {
     return (
       <div className="Dictionary">
         <section>
-          <h1>Search the Dictionary</h1>
+          <h1>Search for english words in the Dictionary</h1>
           <form onSubmit={handleSubmit}>
             <input
               type="search"
