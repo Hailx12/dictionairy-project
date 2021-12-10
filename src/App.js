@@ -21,13 +21,14 @@ function App() {
           >
             Sohaily Kerpens
           </a>{" "}
-          Github{" "}
+          and is{" "}
           <a
             href="https://github.com/Hailx12/dictionairy-project"
             rel="noreferrer"
           >
             open-Sourced
-          </a>
+          </a>{" "}
+          on Github
         </footer>
       </div>
     </div>
